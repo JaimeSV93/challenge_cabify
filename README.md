@@ -10,7 +10,7 @@ All the files are packaged in a **.zip archive**. You will need to extract the c
 
 - **Jupyter Notebook**: Contains detailed explanations and code for both parts of the challenge:
   1. **Experiment Design** for JustEat: Step-by-step breakdown of the experimental setup and methodology (pandas logging numpy fastdtw scipy s2sphere scikit-learn).
-  2. **Model Prototyping**: Explanation and implementation of the machine learning model (all MarkDown).
+  2. **Model Prototyping**: Explanation and implementation of the machine learning model.
   
 - **Dataset**: The dataset used for the challenge. (Assumed to be the one provided as part of the project.)
   
